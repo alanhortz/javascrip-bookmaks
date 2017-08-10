@@ -6,4 +6,6 @@ Curated ressources that I find personally useful during my projects
 
 * [Es6 in depth Arrow functions](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/)
 
+* [ES6 - operator precedence](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+
 * [Run to completion - understanding the event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop#Run-to-completion)
