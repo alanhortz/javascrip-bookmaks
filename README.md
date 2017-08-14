@@ -9,3 +9,7 @@ Curated ressources that I find personally useful during my projects
 * [ES6 - operator precedence](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 
 * [Run to completion - understanding the event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop#Run-to-completion)
+
+* [Currying & partial application](https://medium.com/javascript-inside/currying-partial-application-f1365d5fad3f)
+
+* [Currying - Brian Lonsdorf](https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch4.html)
